@@ -1,13 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 name: Run abaplint
-on:
-  push:
-    branches:
-      - master
-  pull_request:
-    branches:
-      - master
+on: [pull_request]
 
 jobs:
   abaplint:
