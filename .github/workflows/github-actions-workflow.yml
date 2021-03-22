@@ -13,5 +13,3 @@ jobs:
         run: |
           npm -g install @abaplint/cli
           abaplint
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
