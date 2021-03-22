@@ -163,7 +163,7 @@
     "method_length": false,
     "mix_returning": true,
     "method_parameter_names": false,
-    "inline_data_old_versions": true,
+    "inline_data_old_versions": false,
     "local_variable_names": false,
     "class_attribute_names": false
   }
