@@ -1,4 +1,4 @@
-*"* use this source file for your ABAP unit test classes
+*"* use this source file for your ABAP unit test classes test
 CLASS ltcl_sd_sls_drf_so_processing DEFINITION DEFERRED.
 
 CLASS ZCL_OM_SAP_ECOM_ORD_UPD DEFINITION LOCAL FRIENDS ltcl_sd_sls_drf_so_processing.
