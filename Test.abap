@@ -24,6 +24,7 @@ CLASS ltcl_sd_sls_drf_so_processing DEFINITION
 
 ENDCLASS.
 
+
 CLASS ltcl_sd_sls_drf_so_processing IMPLEMENTATION.
 
   METHOD class_setup.
